@@ -1,0 +1,8 @@
+require("config.lazy")
+require("config.mappings")
+require("config.settings")
+require("config.lualine")
+require("config.treesitter")
+require("config.noice")
+require("config.bufferline")
+require("config.coc")
